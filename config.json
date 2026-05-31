@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderselete",
+        "uuid": 8189613,
+        "checksum": "ngsmte"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
